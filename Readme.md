@@ -6,7 +6,7 @@ The project is a mirror from [Station-Drivers](https://www.station-drivers.com/i
 ### Why was the project created?
 
 - Intel does not (_often_) releases updates or their updates are difficult to find and they in general prefer to fix problems for OEM's first which means they get fixes first.
-- I'm _usually faster in uploading files.
+- I'm _usually_ faster in uploading files.
 - I prefer _reliable_ hosters like GitHub, GitLab over Mega.nz & Station-Drivers (_sorry ST!_).
 - Better versions tracking & control. If there is a changelog I try to provide them and mention them.
 - Other people can submit their findings via pull request(s), which makes it easier to stay up-2-date.
@@ -22,7 +22,7 @@ However, I test every single upload myself and flash them myself (even if I don'
 
 ### Versions Tag
 
-I follow the same guidelines [plutomaniac](https://www.win-raid.com/t832f39-Intel-Engine-Firmware-Repositories.html) does. 
+I follow the same guidelines as [plutomaniac](https://www.win-raid.com/t832f39-Intel-Engine-Firmware-Repositories.html) does. 
 
 ```
 - Every Engine firmware version tag has a Major, Minor, Hotfix & Build number. Example: ME 8.1.40.1416 has Major 8, Minor 1, Hotfix 40 and Build 1416.
@@ -39,6 +39,11 @@ There is a certain mentality which is followed in order to structure the Engine 
 - When it comes to Engine Region images (RGN/EXTR), Stock (RGN) ones are more important that EXTR. ME Analyzer can detect that as well.
 
 ```
+
+
+### How do I flash Intel ME Firmware Updates?
+
+A detailed guide can be found [here](https://github.com/CHEF-KOCH/HowTo-flash-Intel-Management-Engine-ME-firmware).
 
 
 ### License
